@@ -6,7 +6,7 @@ package triangulo;
 
 /**
  *
- * @author Sebastian
+ * 
  */
 public class Expresion1 {
      public static void main(String[] args) {
@@ -23,3 +23,4 @@ public class Expresion1 {
     }
     
 }
+
