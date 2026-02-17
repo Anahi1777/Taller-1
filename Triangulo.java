@@ -6,7 +6,7 @@ package triangulo;
 
 /**
  *
- * @author Sebastian
+ * 
  */
 
 // importamos la herramienta scanner para leer datos del usuario
@@ -45,4 +45,5 @@ public class Triangulo {
         // TODO code application logic here
     
     
+
 
