@@ -6,7 +6,7 @@ package triangulo;
 
 /**
  *
- * @author Sebastian
+ * 
  */
 import java.util.Scanner;
 
@@ -28,3 +28,4 @@ import java.util.Scanner;
     
     } 
 }
+
